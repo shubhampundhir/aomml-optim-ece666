@@ -131,7 +131,7 @@ Below you will find our main results. As for all optimization problems, the perf
 
 When faced with a real application, one should always try out a number of different algorithms and hyper-parameters to figure out what works better for your particular problem.
 
-![cifar10_1](https://raw.githubusercontent.com/shubhampundhir/aomml-optim-ece666/main/results/cifar10-1.png)
+![cifar10_1](https://raw.githubusercontent.com/shubhampundhir/aomml-optim-ece666/main/results/cifar10-1.jpg)
 
 ![cifar_rmsprop_adam](https://raw.githubusercontent.com/nicklashansen/neural-net-optimization/master/results/loss_cifar_rmsprop_adam.png)
 
