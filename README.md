@@ -146,14 +146,13 @@ When faced with a real application, one should always try out a number of differ
 ![cifar10_4](https://raw.githubusercontent.com/shubhampundhir/aomml-optim-ece666/main/results/cifar10-4.jpg)
 
 
+![cifar_sgd](https://raw.githubusercontent.com/nicklashansen/neural-net-optimization/master/results/loss_cifar_sgd.png)
+
+![cifar_lookahead](https://raw.githubusercontent.com/nicklashansen/neural-net-optimization/master/results/loss_cifar_lookahead.png)
+
 ## MLP (MNIST-dataset):
 ![mnist_1](https://raw.githubusercontent.com/shubhampundhir/aomml-optim-ece666/main/results/mnist-1.jpg)
 ![mnist_2](https://raw.githubusercontent.com/shubhampundhir/aomml-optim-ece666/main/results/mnist-2.jpg)
 ![mnist_3](https://raw.githubusercontent.com/shubhampundhir/aomml-optim-ece666/main/results/mnist-3.jpg)
 ![mnist_4](https://raw.githubusercontent.com/shubhampundhir/aomml-optim-ece666/main/results/mnist-4.jpg)
 
-
-
-![cifar_sgd](https://raw.githubusercontent.com/nicklashansen/neural-net-optimization/master/results/loss_cifar_sgd.png)
-
-![cifar_lookahead](https://raw.githubusercontent.com/nicklashansen/neural-net-optimization/master/results/loss_cifar_lookahead.png)
