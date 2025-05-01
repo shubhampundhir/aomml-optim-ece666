@@ -91,7 +91,7 @@ aomml-PytorchOptim-CIFAR10.ipynb
 Each notebook covers:
 
 1. Environment Setup
-# In the first cell:
+- In the first cell:
 ```
 !pip install -r requirements.txt
 
