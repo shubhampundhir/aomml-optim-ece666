@@ -126,7 +126,7 @@ jupyter lab
 
 ## Accuracy Metrics:(Optimizer-wise)
 
-![cifar10_1](https://raw.githubusercontent.com/shubhampundhir/aomml-optim-ece666/main/results/cifar10-5.jpg)
+![cifar10_1](https://raw.githubusercontent.com/shubhampundhir/aomml-optim-ece666/main/results/cifar-5.jpg)
 
 ![mnist_1](https://raw.githubusercontent.com/shubhampundhir/aomml-optim-ece666/main/results/mnist-5.jpg)
 
