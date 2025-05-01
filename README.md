@@ -124,12 +124,12 @@ jupyter lab
 
 ### then open and “Run All” in your chosen notebook
 
-## Accuracy Metrics:(Optimizer-wise)
-- CNN (CIFAR-10)
+# Accuracy Metrics:(Optimizer-wise)
+## CNN (CIFAR-10)
 ![cifar10_1](https://raw.githubusercontent.com/shubhampundhir/aomml-optim-ece666/main/results/cifar-5.jpg)
 
 
-- MLP (MNIST-dataset):
+## MLP (MNIST-dataset):
 ![mnist_1](https://raw.githubusercontent.com/shubhampundhir/aomml-optim-ece666/main/results/mnist-5.jpg)
 
 
@@ -139,11 +139,14 @@ Below you will find our main results. As for all optimization problems, the perf
 
 When faced with a real application, one should always try out a number of different algorithms and hyper-parameters to figure out what works better for your particular problem.
 
+## CNN (CIFAR-10)
 ![cifar10_1](https://raw.githubusercontent.com/shubhampundhir/aomml-optim-ece666/main/results/cifar10-1.jpg)
 ![cifar10_2](https://raw.githubusercontent.com/shubhampundhir/aomml-optim-ece666/main/results/cifar10-2.jpg)
 ![cifar10_3](https://raw.githubusercontent.com/shubhampundhir/aomml-optim-ece666/main/results/cifar10-3.jpg)
 ![cifar10_4](https://raw.githubusercontent.com/shubhampundhir/aomml-optim-ece666/main/results/cifar10-4.jpg)
 
+
+## MLP (MNIST-dataset):
 ![mnist_1](https://raw.githubusercontent.com/shubhampundhir/aomml-optim-ece666/main/results/mnist-1.jpg)
 ![mnist_2](https://raw.githubusercontent.com/shubhampundhir/aomml-optim-ece666/main/results/mnist-2.jpg)
 ![mnist_3](https://raw.githubusercontent.com/shubhampundhir/aomml-optim-ece666/main/results/mnist-3.jpg)
