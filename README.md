@@ -77,6 +77,54 @@ with arguments as specified in the ```main.py``` file. The algorithms can be run
 _____
 
 
+## 2. Within JupyterLab
+We provide four interactive notebooks:
+
+```
+aomml-CustomOptim-MNIST.ipynb
+aomml-CustomOptim-CIFAR10.ipynb
+aomml-CustomOptim-CIFAR100.ipynb
+aomml-PytorchOptim-CIFAR10.ipynb
+
+```
+
+Each notebook covers:
+
+1. Environment Setup
+# In the first cell:
+```
+!pip install -r requirements.txt
+
+```
+
+2. Dataset Loading
+
+- MNIST: transforms, DataLoader
+
+- CIFAR-10/100: normalization, augmentations
+
+- Model Definition
+
+* Small MLP for MNIST
+
+* Standard CNN (≈808k parameters) for CIFAR
+
+3. Optimizer Configuration
+
+- Select from custom vs. built-in optimizers
+
+- Set hyperparameters via widget or variables
+
+### To launch:
+
+```
+jupyter lab
+
+```
+
+### then open and “Run All” in your chosen notebook
+
+
 ## Results
 
 Below you will find our main results. As for all optimization problems, the performance of particular algorithms is highly dependent on the problem details as well as hyper-parameters. While we have made no attempt at fine-tuning the hyper-parameters of individual optimization methods, we have kept as many hyper-parameters as possible constant to better allow for comparison. Wherever possible, default hyper-parameters as proposed by original authors have been used.
