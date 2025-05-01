@@ -125,11 +125,11 @@ jupyter lab
 ### then open and “Run All” in your chosen notebook
 
 ## Accuracy Metrics:(Optimizer-wise)
-*CNN (CIFAR-10)
+- CNN (CIFAR-10)
 ![cifar10_1](https://raw.githubusercontent.com/shubhampundhir/aomml-optim-ece666/main/results/cifar-5.jpg)
 
 
-* MLP (MNIST-dataset):
+- MLP (MNIST-dataset):
 ![mnist_1](https://raw.githubusercontent.com/shubhampundhir/aomml-optim-ece666/main/results/mnist-5.jpg)
 
 
